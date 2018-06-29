@@ -1,4 +1,4 @@
-# Ethnicity_classifier
+# Ethnicity Classifier
 
 ## Training
 python train.py 
