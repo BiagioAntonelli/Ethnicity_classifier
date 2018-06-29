@@ -11,7 +11,7 @@ otherwise it predicts with the other.
 Download the models [here](https://drive.google.com/open?id=1xrT7Nn-ErWDEZrq1Pt109odfBpcAnCHd) and put them in a directory called models.
 
 ## Predictions
-Insert images in test_data and run python predict.py to classify the images
+Insert images in a test_data folder and run python predict.py to classify the images
 The model used for the prediction is the VGG16 pretrained on Imagenet.
 
 * python predict.py --data\_dir '/test/images/folder/'
