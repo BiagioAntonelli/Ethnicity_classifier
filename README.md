@@ -10,6 +10,8 @@ otherwise it predicts with the other.
 Insert images in test_data and run python predict.py to classify the images
 The model used for the prediction is the VGG16 pretrained on Imagenet.
 
+* python predict.py --data\_dir '/test/images/folder/'
+
 ## Model download
 Download the model [here](https://drive.google.com/open?id=1xrT7Nn-ErWDEZrq1Pt109odfBpcAnCHd).
 
