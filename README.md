@@ -1,4 +1,5 @@
 # Ethnicity Classifier
+This code implement an Ethnicity classifiers, the ethnicities considered are: Black, White, Asian, Indian and Hispanic. The model takes as input an image of any size and output the ethinicity of the person in the image.
 
 ## Training
 python train.py 
