@@ -7,6 +7,5 @@ In prediction, the model are combined, if the algorithm manage to extract faces,
 Insert images in test_data and run python predict.py to classify the images
 The model used for the prediction is the VGG16 pretrained on Imagenet.
 
-Download the models [here].
-[here]: https://drive.google.com/open?id=1xrT7Nn-ErWDEZrq1Pt109odfBpcAnCHd
+Download the models [here](https://drive.google.com/open?id=1xrT7Nn-ErWDEZrq1Pt109odfBpcAnCHd).
 
